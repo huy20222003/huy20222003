@@ -57,7 +57,6 @@ Là một full stack developer đam mê, tôi chuyên tạo ra các giải pháp
 ## 🤝 Kết Nối Chuyên Nghiệp
 - 📧 **Email**: [nguyenhuy1911031@gmail.com](mailto:nguyenhuy1911031@gmail.com)
 - 📺 **YouTube**: [Huy Dev Channel](https://youtube.com/@huydev003?si=syff3RhjFVTObHns)
-- 💼 **Linkedin**: [Huy's Professional Profile](https://www.linkedin.com/in/yourusername)
 
 ### 💬 Châm Ngôn
-*"Sự sáng tạo là trí thông minh đang vui chơi."*
+*"Một mình đi nhanh, cùng nhau đi xa."*
