@@ -34,21 +34,21 @@ Là một full stack developer đam mê, tôi chuyên tạo ra các giải pháp
 
 ## 🚀 Dự Án Nổi Bật
 
-### 1. Ứng Dụng Quản Lý Dự Án
-- **Công nghệ**: React, Node.js, MongoDB
-- **Mô tả**: Giải pháp quản lý dự án toàn diện với giao diện thân thiện
+### 1. Hệ thống quản lý nhà hàng
+- **Công nghệ**: React, Node.js, MongoDB, ExpressJS
+- **Mô tả**: Giải pháp quản lý nhà hàng toàn diện với đầy đủ chức năng và giao diện thân thiện
 
-### 2. Hệ Thống E-commerce
-- **Công nghệ**: Laravel, MySQL, Tailwind CSS
-- **Mô tả**: Nền tảng thương mại điện tử với tính năng thanh toán tích hợp
+### 2. Realtime server IOT
+- **Công nghệ**: Node.js, MongoDB, ExpressJS, WebSocket
+- **Mô tả**: Một realtime server phụ trách việc nhận, xử lý và truyền tải dữ liệu giữa các thiết bị IOT
 
 ## 📊 Thống Kê GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=huy20222003&theme=dark&hide_border=false&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=huy20222003&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=huy20222003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
 
 ## 🏆 Chứng Nhận & Giải Thưởng
 - Chứng chỉ Phát triển Web Full Stack
-- Giải Nhất Cuộc Thi Ứng Dụng Công Nghệ Năm 2023
 
 ## 📚 Học Tập Liên Tục
 - **Đang nghiên cứu**: Microservices Architecture
