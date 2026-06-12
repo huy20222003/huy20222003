@@ -8,7 +8,7 @@
 
 ## 🎖️ Executive Summary
 
-Tôi là nhà sáng lập và Kiến trúc sư trưởng tại **NivaSound**, nơi chúng tôi định hình lại ranh giới giữa tiềm năng con người và trí tuệ nhân tạo. Với hơn 8 năm kinh nghiệm trong hệ sinh thái công nghệ, tôi tập trung vào việc kiến tạo các **Hệ thống AI Tự hành (Agentic Systems)** có khả năng thay đổi hoàn toàn cách thức vận hành của doanh nghiệp hiện đại.
+Tôi là nhà sáng lập và Kiến trúc sư trưởng tại **NivaSound**, nơi chúng tôi định hình lại ranh giới giữa tiềm năng con người và trí tuệ nhân tạo. Với hơn kinh nghiệm trong hệ sinh thái công nghệ, tôi tập trung vào việc kiến tạo các **Hệ thống AI Tự hành (Agentic Systems)** có khả năng thay đổi hoàn toàn cách thức vận hành của doanh nghiệp hiện đại.
 
 Tầm nhìn của tôi là xây dựng những "bộ não số" không chỉ thực thi lệnh, mà còn biết tư duy, lập kế hoạch và đồng hành cùng sự phát triển bền vững của nhân loại.
 
